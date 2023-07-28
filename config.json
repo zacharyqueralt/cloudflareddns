@@ -1,0 +1,39 @@
+{
+  "notifications": false,
+  "slackwebhookurl": "",
+  "interval (mins)": "5",
+  "zones": [
+      {
+        "zoneid": "xxxxxx",
+        "apikey": "xxxxxx",
+        "records": [
+          {
+            "type": "A",
+            "name": "example.com",
+            "proxied": true
+          },
+          {
+            "type": "A",
+            "name": "www.example.com",
+            "proxied": true
+          }
+        ]
+      },
+      {
+        "zoneid": "xxxxxx",
+        "apikey": "xxxxxx",
+        "records": [
+          {
+            "type": "A",
+            "name": "example2.com",
+            "proxied": true
+          },
+          {
+            "type": "MX",
+            "name": "mail.example2.com",
+            "proxied": false
+          }
+        ]
+      }
+  ]
+}
