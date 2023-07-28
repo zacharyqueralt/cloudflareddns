@@ -1,16 +1,25 @@
 # cloudflareddns
 
 Just a simple cloudflare ddns script I use and thought id share becuse there arent many out there.
+
 Capable of multiple zones, multiple cloudflare accounts, multiple records.
+
 Config can be edited without the need for a restart of the script.
+
 Pls forgive me if I have made bad practices - im <18 and self taught :)
+
 You could easily create your own notification api in "notify_api.py" if you dont want slack.
+
 Feel free to pull.
 
-If you like this, pls consider a tip ;) 
-BTC: bc1qm5adk0m4nk0a7w2dfnre967wqawcvpx0cxuyac
-cashapp: zacquealt
+---
 
+If you like this, pls consider a tip ;)
+
+BTC: bc1qm5adk0m4nk0a7w2dfnre967wqawcvpx0cxuyac
+cashapp: zacqueralt
+
+---
 
 == INSTALL ==
 - install python: https://www.python.org
@@ -18,6 +27,7 @@ cashapp: zacquealt
 - run: "pip install -r requirements.txt"
 - run: "python main.py"
 
+---
 
 == LINKING A CLOUDFLARE ZONE ==
 - login to https://dash.cloudflare.com
@@ -34,6 +44,7 @@ cashapp: zacquealt
 - click "create token"
 - copy the token and paste it into config.json
 
+---
 
 == SLACK NOTIFICATIONS SETUP ==
 - make slack account or signin
