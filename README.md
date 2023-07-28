@@ -1,6 +1,6 @@
 # cloudflareddns
 
-Just a simple cloudflare ddns script I use and thought id share becuse there arent many out there.
+Just a simple cloudflare ddns script I made, use and thought i'd share becuse there aren't many out there.
 
 Capable of multiple zones, multiple cloudflare accounts, multiple records.
 
@@ -17,6 +17,7 @@ Feel free to pull.
 If you like this, pls consider a tip ;)
 
 BTC: bc1qm5adk0m4nk0a7w2dfnre967wqawcvpx0cxuyac
+
 cashapp: zacqueralt
 
 ---
