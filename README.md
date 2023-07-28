@@ -1,10 +1,10 @@
 # cloudflareddns
 
 == INSTALL ==
-install python: https://www.python.org
-navigate to main directory of downloaded code
-run: pip install -r requirements.txt
-run: python main.py
+- install python: https://www.python.org
+- navigate to main directory of downloaded code
+- run: "pip install -r requirements.txt"
+- run: "python main.py"
 
 
 
