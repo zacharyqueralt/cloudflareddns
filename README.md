@@ -6,21 +6,12 @@ Capable of multiple zones, multiple cloudflare accounts, multiple records.
 
 Config can be edited without the need for a restart of the script.
 
-Pls forgive me if I have made bad practices - im <18 and self taught :)
-
 You could easily create your own notification api in "notify_api.py" if you dont want slack.
 
 Feel free to pull.
 
 ---
 
-If you like this, pls consider a tip ;)
-
-BTC: bc1qm5adk0m4nk0a7w2dfnre967wqawcvpx0cxuyac
-
-cashapp: zacqueralt
-
----
 
 == INSTALL ==
 - install python: https://www.python.org
